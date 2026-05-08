@@ -11,7 +11,7 @@ How to Run:
 python insider_threat_detector.py
 
 Rules Used:
-1. Sensitive data indicators such as salary, SSN, employee, and m57biz.
+1. Sensitive data indicators such as employee-related records, confidential files, and business documents.
 2. Possible exfiltration indicators such as USB, flash drive, removable device, Gmail, Yahoo, and web activity.
 3. Suspicious behaviour indicators such as recent document access and multiple timeline events.
 
