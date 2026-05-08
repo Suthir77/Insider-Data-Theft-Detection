@@ -1,0 +1,6 @@
+event_id,event_type,description,date_time,risk_indicator
+1,sensitive_file_found,m57biz.xls contains employee names positions salaries and SSN values,2008-07-20 11:28:03,Sensitive Data
+2,recent_document_access,m57biz.xls was accessed from Jean Desktop,2008-07-20 11:27:42,File Access
+3,usb_device_attached,USB flash drive and removable devices were detected,2008-07-20 11:26:18,Possible Exfiltration
+4,web_search,m57.biz was searched using web search artefacts,2008-07-06 07:50:01,Web Activity
+5,timeline_activity,Timeline shows multiple m57biz events in a short time,2008-07-20 11:28:04,Suspicious Pattern
